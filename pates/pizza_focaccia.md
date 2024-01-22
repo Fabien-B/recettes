@@ -18,3 +18,18 @@
 5. étaler la pâte et garnir
 6. Enfourner 15 à 20min à **230°C**
 
+
+## Idées de garniture
+
+- "flamenkuche" :
+    - Faire revenir des oignons, et ajouter de la crème fraîche épaisse.
+    - Étaler sur la pâte
+    - Couvrir de fines tranches de ventrèche
+    - Soupoudrer de cantal râpé
+
+- summer :
+    - Faire revenir des oignons
+    - Ajouter des poivrons
+    - Ajouter des tomates
+    - Étaler sur la pâte
+    - Soupoudrer de cantal râpé
