@@ -12,3 +12,4 @@
 - [Gâteau aux noix](desserts/gateau_noix.md)
 - [Gâteau rapide](desserts/gateau_rapide.md)
 - [Sablés aux noix](desserts/sables_aux_noix.md)
+- [Far Breton](desserts/far_breton.md)
